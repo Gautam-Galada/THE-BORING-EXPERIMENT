@@ -51,3 +51,5 @@ The two behavioral flips between studies are the core finding. See each study's 
 
 - [**Study 1 — Medical Domain**](./study-1-medical/README.md)
 - [**Study 2 — Cargo Domain**](./study-2-cargo/README.md)
+---
+Note : Prompts were drafted by the author, Claude was only used to convert those prompts and NLA results into markdown.
