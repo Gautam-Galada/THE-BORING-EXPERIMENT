@@ -1,4 +1,5 @@
 # THE-BORING-EXPERIMENT - NLA Refusal Study 
+Substack Post : https://gautamgalada1.substack.com/p/a-boring-weekend-and-some-caffeine
 
 Companion repository to the Substack article *A Boring Weekend and Some Caffeine*.
 
